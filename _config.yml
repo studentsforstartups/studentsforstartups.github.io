@@ -2,13 +2,11 @@
 title: Students for Startups
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Students For Startups is a University of Pittsburgh undergraduate groups dedicated to
-  promoting entrepreneurship, faciliating peer-to-peer startup efforts, and connecting students with
-  local professions knowledgable about startups.
+  Students For Startups is a University of Pittsburgh undergraduate organization.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "studentsforstartups.githib.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  Students4Startups
+github_username:  studentsforstartups
 facebook_username: S4Spitt
 # Build settings
 markdown: kramdown
