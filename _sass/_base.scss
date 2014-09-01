@@ -82,8 +82,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
 }
 
-
-
 /**
  * Links
  */
@@ -101,8 +99,6 @@ a {
     }
 }
 
-
-
 /**
  * Blockquotes
  */
@@ -118,8 +114,6 @@ blockquote {
         margin-bottom: 0;
     }
 }
-
-
 
 /**
  * Code formatting
@@ -200,4 +194,15 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+
+/**
+* Centered Block Elements
+*/ 
+
+.block_element {
+    border: 0;
+    margin:auto;
+    display:block;
 }

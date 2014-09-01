@@ -95,6 +95,8 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background-color: $steel-blue-color;
+    max-height: 15vh;
 }
 
 .footer-heading {
@@ -163,7 +165,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    background-color: $page-bg-color;
 }
 
 .page-heading {
