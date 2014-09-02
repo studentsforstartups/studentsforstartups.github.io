@@ -1,6 +1,6 @@
 # Site settings
 title: Students for Startups
-email: your-email@domain.com
+email: s4spitt@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Students For Startups is a University of Pittsburgh undergraduate organization.
 baseurl: "" # the subpath of your site, e.g. /blog/
