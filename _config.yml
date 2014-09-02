@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Students For Startups is a University of Pittsburgh undergraduate organization.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "studentsforstartups.githib.io" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
+twitter_username: S4Spitt
 github_username:  studentsforstartups
 facebook_username: S4Spitt
 # Build settings
