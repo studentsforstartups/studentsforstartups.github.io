@@ -15,6 +15,3 @@ Social Lead: Neha Abraham
 
 ![Robbie McKinstry]({{}}/assets/place_holder.jpg)
 Internal Projects Lead: Robbie McKinstry
-
-![Chris Meier]({{}}/assets/place_holder.jpg)
-Business Lead: Chris Meier
